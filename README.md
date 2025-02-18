@@ -1,7 +1,11 @@
-**We need to do it perfectly well**  ✨
+### We need to do it perfectly well  ✨
 
+[VIEW THIS PROJECT](https://we-need-to-do-it-perfectly-well.vercel.app/)
+---
 ### About the Project  
 The **"We need to do it perfectly well"** project explores the theme of perfectionism in work and study. Despite its visually simple layout, it includes several technical nuances.  
+
+---
 
 ### Project Structure  ✨
 
